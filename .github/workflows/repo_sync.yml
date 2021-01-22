@@ -1,4 +1,4 @@
-name: sync-zdrka-yml
+name: 同步模板
 on:
   # schedule:
     # - cron: '0 0-16/4 * * *'
